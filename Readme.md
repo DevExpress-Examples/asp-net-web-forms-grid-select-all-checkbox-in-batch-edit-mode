@@ -26,7 +26,7 @@ Follow the steps below to implement the **Select All** functionality in a column
     </dx:GridViewDataCheckColumn>
     ```
 
-2. Handle the editor's client-side `CheckedChanged` event. In the handler, call the grid's [SetCellValue](https://docs.devexpress.com/AspNet/js-ASPxClientGridViewBatchEditApi.SetCellValue(visibleIndex-columnFieldNameOrId-value)) method to assign a value to the specified cell based on a check box state.
+2. Handle the editor's client-side `CheckedChanged` event. In the handler, call the grid's [SetCellValue](https://docs.devexpress.com/AspNet/js-ASPxClientGridViewBatchEditApi.SetCellValue(visibleIndex-columnFieldNameOrId-value)) method to assign a value to the specified cell based on the check box state.
 
     ```js
     function OnHeaderCheckBoxCheckedChanged(s, e) {
