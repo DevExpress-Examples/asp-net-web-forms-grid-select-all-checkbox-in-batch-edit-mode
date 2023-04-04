@@ -38,7 +38,7 @@ Follow the steps below to implement the **Select All** functionality in a column
     }
     ```
 
-3. Handle the grid's client-side [BatchEditEndEditing](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditEndEditing), [BatchEditRowDeleting](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditRowDeleting), and [BatchEditRowInserting](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditRowInserting) events. In the handlers, call the `CheckSelectedCellsOnPage` function. In this function, compare the number of selected rows and the total number of visible rows. Based on a result, specify the state of the check box editor.
+3. Handle the grid's client-side [BatchEditEndEditing](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditEndEditing), [BatchEditRowDeleting](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditRowDeleting), and [BatchEditRowInserting](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditRowInserting) events. In the handlers, call the `CheckSelectedCellsOnPage` function. In this function, compare the number of selected rows and the total number of visible rows. Based on a result, specify the state of the checkbox editor.
 
     ```js
     function CheckSelectedCellsOnPage(checkType) {
