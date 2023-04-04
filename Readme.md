@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # ASPxGridView in Batch Edit mode - Implement the Select All feature for the CheckBox column
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t282835/)**
+**[[Run Online]](https://codecentral.devexpress.com/128536265/)**
 <!-- run online end -->
 
 
