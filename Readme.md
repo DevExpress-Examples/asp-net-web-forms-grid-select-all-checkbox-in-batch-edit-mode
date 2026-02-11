@@ -81,7 +81,7 @@ Follow the steps below to implement the **Select All** functionality in a column
 
 * [Grid View for ASP.NET MVC - Implement the Select All check box for a templated column in batch edit mode](https://github.com/DevExpress-Examples/gridview-how-to-implement-the-select-all-feature-for-a-checkbox-column-in-batch-edit-mode-t401286)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-select-all-checkbox-in-batch-edit-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-select-all-checkbox-in-batch-edit-mode&~~~was_helpful=no)
 
